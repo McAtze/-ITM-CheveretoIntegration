@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <options>
   <option option_id="itmChevInt_autoInsert" edit_format="onoff" data_type="boolean">
-    <default_value></default_value>
+    <default_value>1</default_value>
     <relation group_id="itmChevInt" display_order="40"/>
   </option>
   <option option_id="itmChevInt_color" edit_format="select" data_type="string">
@@ -38,26 +38,6 @@ markdown-embed-medium={{ phrase('itmChevInt_markdownEmbedMedium')}}
 markdown-embed-thumbnail={{ phrase('itmChevInt_markdownEmbedThumbnail')}}</edit_format_params>
     <relation group_id="itmChevInt" display_order="30"/>
   </option>
-  <option option_id="itmChevInt_language" edit_format="select" data_type="string">
-    <default_value>auto</default_value>
-    <edit_format_params>own={{ phrase('itmChevInt_useOwnPhrase')}}
-auto={{ phrase('itmChevInt_auto')}}
-ar={{ phrase('itmChevInt_arabic')}}
-cs={{ phrase('itmChevInt_czech')}}
-de={{ phrase('itmChevInt_german')}}
-es={{ phrase('itmChevInt_spanish')}}
-fi={{ phrase('itmChevInt_finnish')}}
-fr={{ phrase('itmChevInt_french')}}
-id={{ phrase('itmChevInt_indonesia')}}
-it={{ phrase('itmChevInt_italian')}}
-ja={{ phrase('itmChevInt_japanese')}}
-nl={{ phrase('itmChevInt_dutch')}}
-pt_BR={{ phrase('itmChevInt_portugueseBrazil')}}
-ru={{ phrase('itmChevInt_russian')}}
-zh_CN={{ phrase('itmChevInt_chineseChina')}}
-zh_TW={{ phrase('itmChevInt_chineseTaiwan')}}</edit_format_params>
-    <relation group_id="itmChevInt" display_order="60"/>
-  </option>
   <option option_id="itmChevInt_position" edit_format="radio" data_type="string">
     <default_value>after</default_value>
     <edit_format_params>before=Before
@@ -65,7 +45,7 @@ after=After</edit_format_params>
     <relation group_id="itmChevInt" display_order="50"/>
   </option>
   <option option_id="itmChevInt_url" edit_format="textbox" data_type="string">
-    <default_value>www.example.com</default_value>
+    <default_value>demo.chevereto.com</default_value>
     <relation group_id="itmChevInt" display_order="10"/>
   </option>
 </options>
