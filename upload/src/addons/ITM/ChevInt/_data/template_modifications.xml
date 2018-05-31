@@ -2,11 +2,7 @@
 <template_modifications>
   <modification type="public" template="PAGE_CONTAINER" modification_key="InsertCheveretoPlugin" execution_order="10" enabled="1" action="str_replace">
     <find><![CDATA[</head>]]></find>
-    <replace><![CDATA[<xf:if is="$xf.options.itmChevInt_autoInsert">
-	<script async src="//{$xf.options.itmChevInt_url}/sdk/pup.js" data-url="https://{$xf.options.itmChevInt_url}/upload" data-palette="{$xf.options.itmChevInt_color}" data-sibling-pos="{$xf.options.itmChevInt_position}" data-auto-insert="{$xf.options.itmChevInt_embedCodes}"></script>
-<xf:else />
-	<script async src="//{$xf.options.itmChevInt_url}/sdk/pup.js" data-url="https://{$xf.options.itmChevInt_url}/upload" data-palette="{$xf.options.itmChevInt_color}" data-sibling-pos="{$xf.options.itmChevInt_position}" data-auto-insert="0"></script>
-</xf:if>
+    <replace><![CDATA[<xf:include template="itmChevInt_wrapper" />
 $0]]></replace>
   </modification>
 </template_modifications>

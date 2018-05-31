@@ -23,8 +23,8 @@
     "src/addons/ITM/ChevInt/_data/routes.xml": "550fa64f9feedf137dd877b38c2684f94474619d2d83890dbb717a91b50da8f5",
     "src/addons/ITM/ChevInt/_data/style_properties.xml": "8b8690a8512f01f219dd2da76e3d0c5f62afc1f317b87794a7331c859c36a7a8",
     "src/addons/ITM/ChevInt/_data/style_property_groups.xml": "68e1879cb3846c42d978487aa8d5145ff3335fc39e58016878824d5cf3fd684c",
-    "src/addons/ITM/ChevInt/_data/templates.xml": "95d4b078b90e74e773cef6695ef94c742e74b8d62e6798738f11f0215a58faee",
-    "src/addons/ITM/ChevInt/_data/template_modifications.xml": "e545fecfd7eb8dcddcece956aa096f33ffd5da8ef64a2c01758e224eaaf10c90",
+    "src/addons/ITM/ChevInt/_data/templates.xml": "2736263e9c08833c3619d1e8878556852a2a6f48ffb5447a5222f19075600a54",
+    "src/addons/ITM/ChevInt/_data/template_modifications.xml": "6ba2ecf95ff07512a940c3ddc1d16b6771326661e82121fb8858f5b898ae8f98",
     "src/addons/ITM/ChevInt/_data/widget_definitions.xml": "37e46965256430f24004c2e7f08ba08f9b0d1cbcc4d70e84b3f4e3ffb713e64b",
     "src/addons/ITM/ChevInt/_data/widget_positions.xml": "a29cee66134f6bc5d75ed9df1eef21096c24401915c5b5c774389c3d7bb2d5b3"
 }

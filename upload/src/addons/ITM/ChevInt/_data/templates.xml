@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<templates/>
+<templates>
+  <template type="public" title="itmChevInt_wrapper" version_id="2000170" version_string="2.0.1"><![CDATA[<xf:if is="$xf.options.itmChevInt_autoInsert">
+	<script async src="//{$xf.options.itmChevInt_url}/sdk/pup.js" data-url="https://{$xf.options.itmChevInt_url}/upload" data-palette="{$xf.options.itmChevInt_color}" data-auto-insert="{$xf.options.itmChevInt_embedCodes}" data-sibling=".js-attachmentUpload" data-sibling-pos="{$xf.options.itmChevInt_position}" data-html="<a %x type='button' class='%bClass button--link u-jsOnly button button--icon button--icon--preview rippleButton'><span class='button-text'>{{ phrase('upload_image')}}</span></a>"></script>
+<xf:else />
+	<script async src="//{$xf.options.itmChevInt_url}/sdk/pup.js" data-url="https://{$xf.options.itmChevInt_url}/upload" data-palette="{$xf.options.itmChevInt_color}" data-sibling=".js-attachmentUpload" data-sibling-pos="{$xf.options.itmChevInt_position}" data-html="<a %x type='button' class='%bClass button--link u-jsOnly button button--icon button--icon--preview rippleButton'><span class='button-text'>{{ phrase('upload_image')}}</span></a>"></script>
+</xf:if>]]></template>
+</templates>
