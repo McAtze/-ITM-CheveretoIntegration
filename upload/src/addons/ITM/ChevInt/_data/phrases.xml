@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="itmChevInt_arabic" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Arabic]]></phrase>
+  <phrase title="itmChevInt_auto" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Auto]]></phrase>
+  <phrase title="itmChevInt_bbcodeEmbed" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[BB code image]]></phrase>
+  <phrase title="itmChevInt_bbcodeEmbedFull" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[BB code full image]]></phrase>
+  <phrase title="itmChevInt_bbcodeEmbedMedium" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[BB code medium image]]></phrase>
+  <phrase title="itmChevInt_bbcodeEmbedThumbnail" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[BB code thumbnail image]]></phrase>
+  <phrase title="itmChevInt_chineseChina" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Chinese (China)]]></phrase>
+  <phrase title="itmChevInt_chineseTaiwan" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Chinese (Taiwan)]]></phrase>
+  <phrase title="itmChevInt_czech" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Czech]]></phrase>
+  <phrase title="itmChevInt_directLinks" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Direct links]]></phrase>
+  <phrase title="itmChevInt_dutch" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Dutch]]></phrase>
+  <phrase title="itmChevInt_finnish" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Finnish]]></phrase>
+  <phrase title="itmChevInt_french" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[French]]></phrase>
+  <phrase title="itmChevInt_german" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[German]]></phrase>
+  <phrase title="itmChevInt_htmlEmbed" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[HTML image]]></phrase>
+  <phrase title="itmChevInt_htmlEmbedFull" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[HTML full image]]></phrase>
+  <phrase title="itmChevInt_htmlEmbedMedium" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[HTML medium image]]></phrase>
+  <phrase title="itmChevInt_htmlEmbedThumbnail" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[HTML thumbnail image]]></phrase>
+  <phrase title="itmChevInt_indonesia" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Indonesia]]></phrase>
+  <phrase title="itmChevInt_italian" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Italian]]></phrase>
+  <phrase title="itmChevInt_japanese" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Japanese]]></phrase>
+  <phrase title="itmChevInt_markdownEmbed" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Markdown image]]></phrase>
+  <phrase title="itmChevInt_markdownEmbedFull" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Markdown full image]]></phrase>
+  <phrase title="itmChevInt_markdownEmbedMedium" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Markdown medium image]]></phrase>
+  <phrase title="itmChevInt_markdownEmbedThumbnail" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Markdown thumbnail image]]></phrase>
+  <phrase title="itmChevInt_portugueseBrazil" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Portuguese (Brazil)]]></phrase>
+  <phrase title="itmChevInt_russian" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Russian]]></phrase>
+  <phrase title="itmChevInt_spanish" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Spanish]]></phrase>
+  <phrase title="itmChevInt_uploadImage" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Upload Image]]></phrase>
+  <phrase title="itmChevInt_useOwnPhrase" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Use own phrase]]></phrase>
+  <phrase title="itmChevInt_viewerLinks" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Viewer links]]></phrase>
+  <phrase title="option.itmChevInt_autoInsert" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable auto insert]]></phrase>
+  <phrase title="option.itmChevInt_color" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Color]]></phrase>
+  <phrase title="option.itmChevInt_embedCodes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Embed Codes]]></phrase>
+  <phrase title="option.itmChevInt_language" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Button language]]></phrase>
+  <phrase title="option.itmChevInt_position" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Button position]]></phrase>
+  <phrase title="option.itmChevInt_url" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Upload to]]></phrase>
+  <phrase title="option_explain.itmChevInt_autoInsert" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable/Disable the auto insert function to let the user choose what he want to do.]]></phrase>
+  <phrase title="option_explain.itmChevInt_color" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Color palette for the upload button.]]></phrase>
+  <phrase title="option_explain.itmChevInt_embedCodes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Embed codes to auto insert in the target editable content. Default <i>bbcode-embed-medium</i>. Codes using <i>full</i>, <i>medium</i> or <i>thumbnail</i> will link to the image viewer page]]></phrase>
+  <phrase title="option_explain.itmChevInt_language" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Button language for two-letter and four-letter language codes.<br />
+If you want to use your own phrase, please edit <b>itmChevInt_uploadImage</b>]]></phrase>
+  <phrase title="option_explain.itmChevInt_position" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Position, relative to the sibling, to place the button.]]></phrase>
+  <phrase title="option_explain.itmChevInt_url" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Path to your Chevereto installation.<br />
+Format: <b>www.example.com</b> or <b>www.example.com/subfolder</b> WITHOUT a trailing slash!]]></phrase>
+  <phrase title="option_group.itmChevInt" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[ITM] Chevereto Integration 2.0]]></phrase>
+  <phrase title="option_group_description.itmChevInt" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+</phrases>
