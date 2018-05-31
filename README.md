@@ -9,12 +9,12 @@ A simple add-on that allows Xenforo admins to integrate their Chevereto image ho
 
 ## Screenshots
 
-https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/options.png
+![Options in ACP](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/options.png)
+![Thread-1 in ACP](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/thread-%231.png)
+![Upload in ACP](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/upload.png)
+![Thread-2 in ACP](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/thread-%232.png)
+![Thread-3 in ACP](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/thread-%233.png)
 
-https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/thread-%231.png
+## After words
 
-https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/upload.png
-
-https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/thread-%232.png
-
-https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/thread-%233.png
+If you wanna thank me for this add-on just [PayPal.Me](https://www.paypal.me/itmaku) ..
