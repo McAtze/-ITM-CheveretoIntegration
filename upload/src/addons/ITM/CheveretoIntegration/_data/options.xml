@@ -41,8 +41,9 @@ markdown-embed-thumbnail={{ phrase('itmChevInt_markdownEmbedThumbnail')}}</edit_
   <option option_id="itmChevInt_position" edit_format="radio" data_type="string">
     <default_value>after</default_value>
     <edit_format_params>after={{ phrase('itmChevInt_after')}}
-before={{ phrase('itmChevInt_before')}}</edit_format_params>
-    <relation group_id="itmChevInt" display_order="50"/>
+before={{ phrase('itmChevInt_before')}}
+editor={{ phrase('itmChevInt_editorBar')}}</edit_format_params>
+    <relation group_id="itmChevInt" display_order="60"/>
   </option>
   <option option_id="itmChevInt_url" edit_format="textbox" data_type="string">
     <default_value>demo.chevereto.com</default_value>
