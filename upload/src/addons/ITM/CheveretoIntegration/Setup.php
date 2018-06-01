@@ -1,6 +1,6 @@
 <?php
 
-namespace ITM\ChevInt;
+namespace ITM\CheveretoIntegration;
 
 use XF\AddOn\AbstractSetup;
 use XF\AddOn\StepRunnerInstallTrait;

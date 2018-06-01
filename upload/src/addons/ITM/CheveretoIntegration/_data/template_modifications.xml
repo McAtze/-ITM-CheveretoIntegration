@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<template_modifications>
+  <modification type="public" template="PAGE_CONTAINER" modification_key="InsertCheveretoPlugin" description="Insert the Chevereto PUP into the HEAD section." execution_order="10" enabled="1" action="str_replace">
+    <find><![CDATA[</head>]]></find>
+    <replace><![CDATA[<xf:include template="helper_itmChevInt" />
+$0]]></replace>
+  </modification>
+</template_modifications>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<template_modifications>
-  <modification type="public" template="PAGE_CONTAINER" modification_key="InsertCheveretoPlugin" execution_order="10" enabled="1" action="str_replace">
-    <find><![CDATA[</head>]]></find>
-    <replace><![CDATA[<xf:include template="itmChevInt_wrapper" />
-$0]]></replace>
-  </modification>
-</template_modifications>
