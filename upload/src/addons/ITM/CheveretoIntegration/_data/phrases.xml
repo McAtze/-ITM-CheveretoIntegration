@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <phrases>
   <phrase title="itmChevInt_after" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[After]]></phrase>
-  <phrase title="itmChevInt_auto" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Auto]]></phrase>
   <phrase title="itmChevInt_bbcodeEmbed" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[BB code embed]]></phrase>
   <phrase title="itmChevInt_bbcodeEmbedFull" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[BB code embed full]]></phrase>
   <phrase title="itmChevInt_bbcodeEmbedMedium" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[BB code embed medium]]></phrase>
@@ -25,7 +24,7 @@
   <phrase title="itmChevInt_orange" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Orange]]></phrase>
   <phrase title="itmChevInt_purple" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Purple]]></phrase>
   <phrase title="itmChevInt_red" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Red]]></phrase>
-  <phrase title="itmChevInt_turpuoise" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Turpuoise]]></phrase>
+  <phrase title="itmChevInt_turquoise" version_id="2000470" version_string="2.0.4" global_cache="1"><![CDATA[Turquoise]]></phrase>
   <phrase title="itmChevInt_uploadImage" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Upload image]]></phrase>
   <phrase title="itmChevInt_viewerLinks" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Viewer links]]></phrase>
   <phrase title="itmChevInt_yellow" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Yellow]]></phrase>
@@ -43,4 +42,5 @@
 E.g.: <b>www.example.com</b> or <b>www.example.com/chevereto</b>]]></phrase>
   <phrase title="option_group.itmChevInt" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[ITM] Chevereto Integration]]></phrase>
   <phrase title="option_group_description.itmChevInt" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[A simple add-on that allows Xenforo admins to integrate their Chevereto image hosting.]]></phrase>
+  <phrase title="permission.forum_uploadImageChevereto" version_id="2000370" version_string="2.0.3"><![CDATA[Upload images to Chevereto]]></phrase>
 </phrases>

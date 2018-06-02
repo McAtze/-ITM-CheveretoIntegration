@@ -2,7 +2,9 @@
 <template_modifications>
   <modification type="public" template="PAGE_CONTAINER" modification_key="InsertCheveretoPlugin" description="Insert the Chevereto PUP into the HEAD section." execution_order="10" enabled="1" action="str_replace">
     <find><![CDATA[</head>]]></find>
-    <replace><![CDATA[<xf:include template="helper_itmChevInt" />
+    <replace><![CDATA[<xf:if is="{{ $xf.visitor.hasPermission('forum', 'uploadImageChevereto') }}">
+	<xf:include template="helper_itmChevInt" />
+</xf:if>
 $0]]></replace>
   </modification>
 </template_modifications>

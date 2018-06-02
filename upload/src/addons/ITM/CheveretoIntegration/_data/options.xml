@@ -8,7 +8,7 @@
     <default_value>default</default_value>
     <edit_format_params>default={{ phrase('default')}}
 clear={{ phrase('clear')}}
-turpuoise={{ phrase('itmChevInt_turpuoise')}}
+turquoise={{ phrase('itmChevInt_turquoise')}}
 green={{ phrase('itmChevInt_green')}}
 blue={{ phrase('itmChevInt_blue')}}
 purple={{ phrase('itmChevInt_purple')}}
@@ -39,7 +39,7 @@ markdown-embed-thumbnail={{ phrase('itmChevInt_markdownEmbedThumbnail')}}</edit_
     <relation group_id="itmChevInt" display_order="30"/>
   </option>
   <option option_id="itmChevInt_position" edit_format="radio" data_type="string">
-    <default_value>after</default_value>
+    <default_value>before</default_value>
     <edit_format_params>after={{ phrase('itmChevInt_after')}}
 before={{ phrase('itmChevInt_before')}}
 editor={{ phrase('itmChevInt_editorBar')}}</edit_format_params>

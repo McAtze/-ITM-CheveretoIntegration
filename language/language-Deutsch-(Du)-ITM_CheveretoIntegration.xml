@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Deutsch (Du)" date_format="j F Y" time_format="H:i" currency_format="{value} {symbol}" week_start="1" decimal_point="," thousands_separator="." label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="de-DE" text_direction="LTR" addon_id="ITM/CheveretoIntegration" export_version="2">
+  <phrase title="itmChevInt_after" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Button nach "Datei hochladen" einfügen]]></phrase>
+  <phrase title="itmChevInt_bbcodeEmbed" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[BBCode: Bild einfügen]]></phrase>
+  <phrase title="itmChevInt_bbcodeEmbedFull" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[BBCode: Bild in voller Auflösung einfügen]]></phrase>
+  <phrase title="itmChevInt_bbcodeEmbedMedium" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[BBCode: Bild in mittlerer Auflösung einfügen]]></phrase>
+  <phrase title="itmChevInt_bbcodeEmbedThumbnail" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[BBCode: Bild als Vorschau einfügen]]></phrase>
+  <phrase title="itmChevInt_before" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Button vor "Datei hochladen" einfügen]]></phrase>
+  <phrase title="itmChevInt_black" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Schwarz]]></phrase>
+  <phrase title="itmChevInt_blue" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Blau]]></phrase>
+  <phrase title="itmChevInt_darkblue" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Dunkelblau]]></phrase>
+  <phrase title="itmChevInt_directLinks" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Direkter Link zum Bild einfügen]]></phrase>
+  <phrase title="itmChevInt_editorBar" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Button im Editor einfügen]]></phrase>
+  <phrase title="itmChevInt_green" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Gün]]></phrase>
+  <phrase title="itmChevInt_grey" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Grau]]></phrase>
+  <phrase title="itmChevInt_htmlEmbed" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[HTML: Bild einfügen]]></phrase>
+  <phrase title="itmChevInt_htmlEmbedFull" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[HTML: Bild in voller Auflösung einfügen]]></phrase>
+  <phrase title="itmChevInt_htmlEmbedMedium" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[HTML: Bild in mittlerer Auflösung einfügen]]></phrase>
+  <phrase title="itmChevInt_htmlEmbedThumbnail" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[HTML: Bild als Vorschau einfügen]]></phrase>
+  <phrase title="itmChevInt_markdownEmbed" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Markdown: Bild einfügen]]></phrase>
+  <phrase title="itmChevInt_markdownEmbedFull" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Markdown: Bild in voller Auflösung einfügen]]></phrase>
+  <phrase title="itmChevInt_markdownEmbedMedium" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Markdown: Bild in mittlerer Auflösung einfügen]]></phrase>
+  <phrase title="itmChevInt_markdownEmbedThumbnail" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Markdown: Bild als Vorschau einfügen]]></phrase>
+  <phrase title="itmChevInt_orange" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Orange]]></phrase>
+  <phrase title="itmChevInt_purple" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Lila/Violette]]></phrase>
+  <phrase title="itmChevInt_red" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Rot]]></phrase>
+  <phrase title="itmChevInt_turquoise" addon_id="ITM/CheveretoIntegration" global_cache="1" version_id="2000470" version_string="2.0.4"><![CDATA[Turquoise]]></phrase>
+  <phrase title="itmChevInt_uploadImage" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Bild hochladen]]></phrase>
+  <phrase title="itmChevInt_viewerLinks" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Links zur Bilderansicht einfügen]]></phrase>
+  <phrase title="itmChevInt_yellow" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Gelb]]></phrase>
+  <phrase title="option.itmChevInt_autoInsert" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Bilder automatisch einfügen]]></phrase>
+  <phrase title="option.itmChevInt_color" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Farbauswahl des Button]]></phrase>
+  <phrase title="option.itmChevInt_embedCodes" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Codeauswahl zum Einfügen]]></phrase>
+  <phrase title="option.itmChevInt_position" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Position des Button]]></phrase>
+  <phrase title="option.itmChevInt_url" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[URL zur Chevereto Installation]]></phrase>
+  <phrase title="option_explain.itmChevInt_autoInsert" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Wenn aktiviert, werden die ausgewählten Codes der hochgeladenen Bilder direkt in den Beitrag eingefügt.<br />
+<b>Hinweis:</b> Diese Einstellung wird empfohlen, da sich stellenweise das Fenster mit den generierten Bildercodes selber schließt.]]></phrase>
+  <phrase title="option_explain.itmChevInt_color" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Hier steht eine Auswahl an Farben für den Button zur Verfügung.<br />
+<b>Hinweis:</b> Der Text des Button kann in der Phrase <i>itmChevInt_uploadImage</i> geändert werden.]]></phrase>
+  <phrase title="option_explain.itmChevInt_embedCodes" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Hier kann der Code zum Einfügen des Hochgeladenen Bildes eingestellt werden. Empfohlen wird im normalen Forenbetrieb der BBCode, z.B. <i>BBCode: Bild als Vorschau einfügen</i>.]]></phrase>
+  <phrase title="option_explain.itmChevInt_position" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Hier kann die Position des Buttons ausgewählt werden.]]></phrase>
+  <phrase title="option_explain.itmChevInt_url" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Hier muss die URL zur genutzten Chevereto Installation eingetragen werden. Es darf <u>kein</u> schließendes Slash (/) genutzt werden.<br />
+<b>Zum Beispiel:</b> <i>www.example.com</i> or <i>www.example.com/chevereto</i>]]></phrase>
+  <phrase title="option_group.itmChevInt" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[[ITM] Chevereto Integration]]></phrase>
+  <phrase title="option_group_description.itmChevInt" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Ein kleines AddOn zur Integration des Chevereto PUP.]]></phrase>
+  <phrase title="permission.forum_uploadImageChevereto" addon_id="ITM/CheveretoIntegration" version_id="2000470" version_string="2.0.4"><![CDATA[Kann Bilder in Chevereto hochladen]]></phrase>
+</language>
