@@ -10,12 +10,12 @@ A simple add-on that allows Xenforo admins to integrate their Chevereto image ho
 ## Screenshots
 
 ![Options in ACP](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/options.png)
-![Thread-1 in ACP](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/thread-%231.png)
-![Thread-2 in ACP](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/thread-%232.png)
-![Thread-3 in ACP](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/thread-%233.png)
-![Thread-4 in ACP](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/Thread-%234.png)
-![Thread-5 in ACP](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/Thread-%235.png)
-![Thread-6 in ACP](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/Thread-%236.png)
+![Thread-1 in ACP](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/thread-001.png)
+![Thread-2 in ACP](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/thread-002.png)
+![Thread-3 in ACP](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/thread-003.png)
+![Thread-4 in ACP](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/Thread-004.png)
+![Thread-5 in ACP](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/Thread-005.png)
+![Thread-6 in ACP](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/Thread-006.png)
 
 ## After words
 
