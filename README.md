@@ -4,8 +4,12 @@ A simple add-on that allows Xenforo admins to integrate their Chevereto image ho
 
 ### Installation
 
-1. Upload all files in `/upload´ folder in your forum root
-2. Got to ACP->Add-Ons an install the new listed add-on
+1. Auto-installation
+   1. Go to ACP->Add-Ons and upload the ZIP file
+
+2. Manually installation
+   1. Upload all files in `/upload` folder in your forum root
+   2. Got to ACP->Add-Ons an install the new listed add-on
 
 ### Description
 
