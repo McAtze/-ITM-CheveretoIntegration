@@ -1,6 +1,6 @@
 ## CHANGELOG
 
-### v2.0.7 (2020-05-22)
+#### v2.0.7 (2020-05-22)
   * Rewrite parts of the code for more fitting in XenForo Editor and other templates
   * Change button style to standard XenForo buttons
   * Fix issue with hidden buttons
