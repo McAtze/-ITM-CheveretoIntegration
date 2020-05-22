@@ -17,34 +17,23 @@ The popup upload plugin (PUP) is a small file that allows Chevereto based websit
 
 ### Requirements
 
-- PHP 5.6.0+
+- PHP 7.1.0+
 
 ### Options
-
-| Group                         | Name            | Description                                                                                                                                                       |
-| ----------------------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| \[ITM\] Chevereto Integration | Auto insert     | Enable/Disable the auto insert function to let the user choose what he want to do.                                                                                |
-| \[ITM\] Chevereto Integration | Color palette   | The color palette for your upload button.  \nNote: You can change the button text by changing the phrase itmChevInt\_uploadImage.                                 |
-| \[ITM\] Chevereto Integration | Embed codes     | Embed codes to auto insert in the target editable content. Default bbcode-embed-medium. Codes using full, medium or thumbnail will link to the image viewer page. |
-| \[ITM\] Chevereto Integration | Button position | Position, relativ to the sibling, to place the button                                                                                                             |
-| \[ITM\] Chevereto Integration | Upload to       | Url to your Chevereto installation. Without trailing slash  \nE.g.: www.example.com or www.example.com/chevereto                                                  |
+![Options](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/options.png)
 
 ### Permissions
-
-| Group             | Permission                 |
-| ----------------- | -------------------------- |
-| Forum permissions | Upload images to Chevereto |
+![Permissions](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/Permissions.png)
 
 ### Screenshots
-
-![Options](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/options.png)
-![Permissions](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/Permissions.png)
-![Thread-1](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/Thread-001.png)
-![Thread-2](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/Thread-002.png)
-![Thread-3](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/Thread-003.png)
-![Thread-4](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/Thread-004.png)
-![Thread-5](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/Thread-005.png)
-![Thread-6](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/Thread-006.png)
+![Thread-After](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/Thread-After.png)
+![Thread-Before](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/Thread-Before.png)
+![Thread-Button-Blue](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/Thread-Button-Blue.png)
+![Thread-Button-DarkBlue](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/Thread-Button-Darkblue.png)
+![Thread-Button-Orange](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/Thread-Button-Orange.png)
+![Thread-Editor](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/Thread-Button-Editor.png)
+![Conversation-Button](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/Conversation-Button.png)
+![Thread-Embed-BBCode](https://github.com/McAtze/-ITM-CheveretoIntegration/blob/master/screenshots/Thread-Embed-BBCode.png)
 
 ### After words
 
