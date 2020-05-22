@@ -1,5 +1,17 @@
 ## CHANGELOG
 
+### v2.0.7 (2020-05-22)
+  * Rewrite parts of the code for more fitting in XenForo Editor and other templates
+  * Change button style to standard XenForo buttons
+  * Fix issue with hidden buttons
+
+#### v2.0.6 (2020-05-15)
+  * Change permission settings. Now, you can separate attachments and chevereto permissions.
+  * Change insert point in TMS to prevent a hidden button.
+
+#### v2.0.5 (2019-02-23)
+  * Fixed code issue with svg button/icon 
+
 #### v2.0.4 (2018-06-02)
   * Insert user permissions
   * Fixed code issue with button/icon
