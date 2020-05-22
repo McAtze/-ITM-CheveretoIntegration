@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <templates>
-  <template type="public" title="helper_itmChevInt" version_id="2000570" version_string="2.0.5"><![CDATA[<xf:if is="$xf.options.itmChevInt_autoInsert && $xf.options.itmChevInt_position != 'editor'">
-	<script async src="//{$xf.options.itmChevInt_url}/sdk/pup.js?noCache" data-url="https://{$xf.options.itmChevInt_url}/upload" data-palette="{$xf.options.itmChevInt_color}" data-auto-insert="{$xf.options.itmChevInt_embedCodes}" data-sibling="button.button--icon--preview" data-sibling-pos="{$xf.options.itmChevInt_position}"></script>
-<xf:elseif is="!$xf.options.itmChevInt_autoInsert && $xf.options.itmChevInt_position != 'editor'" />
-	<script async src="//{$xf.options.itmChevInt_url}/sdk/pup.js?noCache" data-url="https://{$xf.options.itmChevInt_url}/upload" data-palette="{$xf.options.itmChevInt_color}" data-sibling="button.button--icon--preview" data-sibling-pos="{$xf.options.itmChevInt_position}"></script>
+  <template type="public" title="helper_itmChevInt" version_id="2000670" version_string="2.0.6"><![CDATA[<xf:if is="$xf.options.itmChevInt_position != 'editor'">
+	<script async src="https://{$xf.options.itmChevInt_url}/sdk/pup.js?noCache" 
+			data-url="https://{$xf.options.itmChevInt_url}/upload" 
+			data-auto-insert="{{ $xf.options.itmChevInt_autoInsert ? $xf.options.itmChevInt_embedCodes : '0' }}" 
+			data-sibling="button.button--icon--preview" 
+			data-sibling-pos="{$xf.options.itmChevInt_position}" 
+			data-html="<button %x type='button' class='{$xf.options.itmChevInt_button} button button--icon button--icon--upload button--chev--{$xf.options.itmChevInt_position} %bClass'><span class='button-text'> {{ phrase('itmChevInt_uploadImage')}}</span></button>">
+	</script>
+	<style>
+		.button--chev--before {margin-right: 5px;}
+		.button--chev--after {margin-left: 5px;}
+	</style>
 <xf:elseif is="$xf.options.itmChevInt_position == 'editor'" />
-	<script async src="//{$xf.options.itmChevInt_url}/sdk/pup.js?noCache" data-url="https://{$xf.options.itmChevInt_url}/upload" data-auto-insert="{$xf.options.itmChevInt_embedCodes}" data-sibling="#insertImage-1" data-html="<button %x class='%bClass fr-command fr-btn fr-btn-font_awesome' data-cmd='uploadImage' data-popup='true' role='button' id='uploadImage-1' title='{{ phrase('upload_image')}}'><i class='far fa-upload' aria-hidden=true'></i><span class='fr-sr-only'>{{ phrase('upload_image')}}</span></button>"></script>
+	<script async src="//{$xf.options.itmChevInt_url}/sdk/pup.js?noCache" 
+			data-url="https://{$xf.options.itmChevInt_url}/upload" 
+			data-auto-insert="{$xf.options.itmChevInt_embedCodes}" 
+			data-sibling="#insertImage-1" 
+			data-sibling-pos="after"
+			data-html="<button %x class='%bClass fr-command fr-btn fr-btn-font_awesome' data-cmd='uploadImage' data-popup='true' role='button' id='uploadImage-1' title='{{ phrase('upload_image')}}'><i class='far fa-upload' aria-hidden=true'></i><span class='fr-sr-only'>{{ phrase('itmChevInt_uploadImage')}}</span></button>">
+	</script>
 </xf:if>]]></template>
 </templates>

@@ -1,5 +1,5 @@
 {
-    "src/addons/ITM/CheveretoIntegration/addon.json": "c59706572c6aea9ba1ee648874bea7f01fd6e487d0eba451e0302cd396117886",
+    "src/addons/ITM/CheveretoIntegration/addon.json": "a82e0f14fb0d47d1a02fc0517061c96631fe7fea0a784a538d8d60fa80f34301",
     "src/addons/ITM/CheveretoIntegration/icon.png": "d5aa29abb941747ef72376f60588e948c58a7eecd3965b486978c16b732c3c65",
     "src/addons/ITM/CheveretoIntegration/README.md": "3fa3582580728535b56fc009fc8cea92bc9ba82f371925ac06f288069997e390",
     "src/addons/ITM/CheveretoIntegration/Setup.php": "929e19b071f26fecbc758ac2bfd56f9278eb70ac9e6d5e61c58b918e2b966013",
@@ -17,16 +17,17 @@
     "src/addons/ITM/CheveretoIntegration/_data/help_pages.xml": "a8a0c0b06cdc550438bc8a8d385af3e1e5ab3459877dfb934c1c31be59c89163",
     "src/addons/ITM/CheveretoIntegration/_data/member_stats.xml": "89fb2b93ff1eca7a1f6f752248edf6090dfd24037db1446fd18ff7143f08124d",
     "src/addons/ITM/CheveretoIntegration/_data/navigation.xml": "f75e1c03a45a360bbdfcd0567121665082315068475d5b0feb8b1acbb1688651",
-    "src/addons/ITM/CheveretoIntegration/_data/options.xml": "47b9e983d6c59ecbc9d0ff482d725c630049432ce1241b7fd2326ed792e9edcd",
+    "src/addons/ITM/CheveretoIntegration/_data/options.xml": "9695f719f291ac69d5f8bb05c900db29f01eed4411df9493bda61363d9249cb9",
     "src/addons/ITM/CheveretoIntegration/_data/option_groups.xml": "b0b8839c11dbe4022b1f0ae70c63c3ee2723202efb6286b9feed30ac6e55509f",
     "src/addons/ITM/CheveretoIntegration/_data/permissions.xml": "b6905203c33e3fac9a891c2fc77a9d19b63090dad2a7e644e77176c4f2afa521",
     "src/addons/ITM/CheveretoIntegration/_data/permission_interface_groups.xml": "3177224e96458b829aa7fb24866dda9e0455a4922aee3d669b53f59a1ffdf5d1",
-    "src/addons/ITM/CheveretoIntegration/_data/phrases.xml": "0b5ee2fa98387853d72582c7f317ebf660d2a28bba2c7091eb9c0ff4ecc801f7",
+    "src/addons/ITM/CheveretoIntegration/_data/phrases.xml": "9a61c95b34c46f76544f8b7196eaa1a4123c6e9ca29480313e24e475f64b79d3",
     "src/addons/ITM/CheveretoIntegration/_data/routes.xml": "550fa64f9feedf137dd877b38c2684f94474619d2d83890dbb717a91b50da8f5",
     "src/addons/ITM/CheveretoIntegration/_data/style_properties.xml": "8b8690a8512f01f219dd2da76e3d0c5f62afc1f317b87794a7331c859c36a7a8",
     "src/addons/ITM/CheveretoIntegration/_data/style_property_groups.xml": "68e1879cb3846c42d978487aa8d5145ff3335fc39e58016878824d5cf3fd684c",
-    "src/addons/ITM/CheveretoIntegration/_data/templates.xml": "a9f77b6612b38d18546a53c4d40c77ae44625c227aadd94b093ec1063f089578",
+    "src/addons/ITM/CheveretoIntegration/_data/templates.xml": "c48b12bbe044381f4bd776f6fa9a5e8e713f318a78f1c4292aa938d74a19e905",
     "src/addons/ITM/CheveretoIntegration/_data/template_modifications.xml": "e929853db6fd2d1341f87d98c8ca5abc6570e0bb39083822fddc07c8d56cf61b",
     "src/addons/ITM/CheveretoIntegration/_data/widget_definitions.xml": "37e46965256430f24004c2e7f08ba08f9b0d1cbcc4d70e84b3f4e3ffb713e64b",
-    "src/addons/ITM/CheveretoIntegration/_data/widget_positions.xml": "a29cee66134f6bc5d75ed9df1eef21096c24401915c5b5c774389c3d7bb2d5b3"
+    "src/addons/ITM/CheveretoIntegration/_data/widget_positions.xml": "a29cee66134f6bc5d75ed9df1eef21096c24401915c5b5c774389c3d7bb2d5b3",
+    "src/addons/ITM/CheveretoIntegration/_dev/resource_description.txt": "a645ef6961c75d324998eb09d9dd69e59541bb60017eac53a8d20f32c97b3403"
 }

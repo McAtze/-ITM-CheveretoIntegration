@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <phrases>
-  <phrase title="itmChevInt_after" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[After]]></phrase>
+  <phrase title="itmChevInt_after" version_id="2000670" version_string="2.0.6" global_cache="1"><![CDATA[After the Preview-Button]]></phrase>
   <phrase title="itmChevInt_bbcodeEmbed" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[BB code embed]]></phrase>
   <phrase title="itmChevInt_bbcodeEmbedFull" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[BB code embed full]]></phrase>
   <phrase title="itmChevInt_bbcodeEmbedMedium" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[BB code embed medium]]></phrase>
   <phrase title="itmChevInt_bbcodeEmbedThumbnail" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[BB code embed thumbnail]]></phrase>
-  <phrase title="itmChevInt_before" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Before]]></phrase>
-  <phrase title="itmChevInt_black" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Black]]></phrase>
+  <phrase title="itmChevInt_before" version_id="2000670" version_string="2.0.6" global_cache="1"><![CDATA[Before the Preview-Button]]></phrase>
   <phrase title="itmChevInt_blue" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Blue]]></phrase>
+  <phrase title="itmChevInt_clear" version_id="2000670" version_string="2.0.6" global_cache="1"><![CDATA[Clear]]></phrase>
   <phrase title="itmChevInt_darkblue" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Darkblue]]></phrase>
   <phrase title="itmChevInt_directLinks" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Direct links]]></phrase>
-  <phrase title="itmChevInt_editorBar" version_id="2000270" version_string="2.0.2" global_cache="1"><![CDATA[Editor bar]]></phrase>
-  <phrase title="itmChevInt_green" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Green]]></phrase>
-  <phrase title="itmChevInt_grey" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Grey]]></phrase>
+  <phrase title="itmChevInt_editorBar" version_id="2000670" version_string="2.0.6" global_cache="1"><![CDATA[In the Editor bar]]></phrase>
   <phrase title="itmChevInt_htmlEmbed" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[HTML embed]]></phrase>
   <phrase title="itmChevInt_htmlEmbedFull" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[HTML embed full]]></phrase>
   <phrase title="itmChevInt_htmlEmbedMedium" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[HTML embed medium]]></phrase>
@@ -22,22 +20,20 @@
   <phrase title="itmChevInt_markdownEmbedMedium" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Markdown embed medium]]></phrase>
   <phrase title="itmChevInt_markdownEmbedThumbnail" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Markdown embed thumbnail]]></phrase>
   <phrase title="itmChevInt_orange" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Orange]]></phrase>
-  <phrase title="itmChevInt_purple" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Purple]]></phrase>
-  <phrase title="itmChevInt_red" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Red]]></phrase>
-  <phrase title="itmChevInt_turquoise" version_id="2000470" version_string="2.0.4" global_cache="1"><![CDATA[Turquoise]]></phrase>
   <phrase title="itmChevInt_uploadImage" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Upload image]]></phrase>
   <phrase title="itmChevInt_viewerLinks" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Viewer links]]></phrase>
-  <phrase title="itmChevInt_yellow" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Yellow]]></phrase>
   <phrase title="option.itmChevInt_autoInsert" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Auto insert]]></phrase>
-  <phrase title="option.itmChevInt_color" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Color palette]]></phrase>
+  <phrase title="option.itmChevInt_button" version_id="2000670" version_string="2.0.6"><![CDATA[Button style]]></phrase>
   <phrase title="option.itmChevInt_embedCodes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Embed codes]]></phrase>
   <phrase title="option.itmChevInt_position" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Button position]]></phrase>
   <phrase title="option.itmChevInt_url" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Upload to]]></phrase>
   <phrase title="option_explain.itmChevInt_autoInsert" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable/Disable the auto insert function to let the user choose what he want to do.]]></phrase>
-  <phrase title="option_explain.itmChevInt_color" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The color palette for your upload button.<br />
-<b>Note:</b> You can change the button text by changing the phrase <i>itmChevInt_uploadImage</i>.]]></phrase>
+  <phrase title="option_explain.itmChevInt_button" version_id="2000670" version_string="2.0.6"><![CDATA[The style for your upload button.<br />
+<b>Note:</b> You can change the button text by changing the phrase <em>itmChevInt_uploadImage</em>.<br />
+<b>Note:</b> Styling based on XenForo default buttons (/style-properties/group&group=button).]]></phrase>
   <phrase title="option_explain.itmChevInt_embedCodes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Embed codes to auto insert in the target editable content. Default <i>bbcode-embed-medium</i>. Codes using <i>full</i>, <i>medium</i> or <i>thumbnail</i> will link to the image viewer page.]]></phrase>
-  <phrase title="option_explain.itmChevInt_position" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Position, relativ to the sibling, to place the button]]></phrase>
+  <phrase title="option_explain.itmChevInt_position" version_id="2000670" version_string="2.0.6"><![CDATA[Position, relativ to the sibling, to place the button.<br />
+<b>Note:</b> The position is based on the preview-button, because it fits to all templates with editor.]]></phrase>
   <phrase title="option_explain.itmChevInt_url" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Url to your Chevereto installation. <b>Without</b> trailing slash<br />
 E.g.: <b>www.example.com</b> or <b>www.example.com/chevereto</b>]]></phrase>
   <phrase title="option_group.itmChevInt" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[ITM] Chevereto Integration]]></phrase>

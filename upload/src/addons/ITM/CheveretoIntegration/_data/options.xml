@@ -4,20 +4,12 @@
     <default_value>1</default_value>
     <relation group_id="itmChevInt" display_order="40"/>
   </option>
-  <option option_id="itmChevInt_color" edit_format="select" data_type="string">
-    <default_value>default</default_value>
-    <edit_format_params>default={{ phrase('default')}}
-clear={{ phrase('clear')}}
-turquoise={{ phrase('itmChevInt_turquoise')}}
-green={{ phrase('itmChevInt_green')}}
-blue={{ phrase('itmChevInt_blue')}}
-purple={{ phrase('itmChevInt_purple')}}
-darkblue={{ phrase('itmChevInt_darkblue')}}
-yellow={{ phrase('itmChevInt_yellow')}}
-orange={{ phrase('itmChevInt_orange')}}
-red={{ phrase('itmChevInt_red')}}
-grey={{ phrase('itmChevInt_grey')}}
-black={{ phrase('itmChevInt_black')}}</edit_format_params>
+  <option option_id="itmChevInt_button" edit_format="select" data_type="string">
+    <default_value>button--link</default_value>
+    <edit_format_params>default={{ phrase('itmChevInt_darkblue')}}
+button--primary={{ phrase('itmChevInt_blue')}}
+button--link={{ phrase('itmChevInt_clear')}}
+button--cta={{ phrase('itmChevInt_orange')}}</edit_format_params>
     <relation group_id="itmChevInt" display_order="20"/>
   </option>
   <option option_id="itmChevInt_embedCodes" edit_format="select" data_type="string">

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Deutsch [Du]" date_format="j M Y" time_format="H:i" currency_format="{value} {symbol}" week_start="1" decimal_point="," thousands_separator="." label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="de-DE" text_direction="LTR" addon_id="ITM/CheveretoIntegration" base_version_id="2000770" export_version="2">
+  <phrase title="itmChevInt_after" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[Nach dem Vorschau-Button]]></phrase>
+  <phrase title="itmChevInt_bbcodeEmbed" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[BB-Code einbetten]]></phrase>
+  <phrase title="itmChevInt_bbcodeEmbedFull" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[BB-Code vollständig einbetten]]></phrase>
+  <phrase title="itmChevInt_bbcodeEmbedMedium" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[BB-Code bedingt einbetten]]></phrase>
+  <phrase title="itmChevInt_bbcodeEmbedThumbnail" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[BB-Code mit Miniaturansicht einbetten]]></phrase>
+  <phrase title="itmChevInt_before" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[Vor dem Vorschau-Button]]></phrase>
+  <phrase title="itmChevInt_blue" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[Blau]]></phrase>
+  <phrase title="itmChevInt_clear" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[Klar]]></phrase>
+  <phrase title="itmChevInt_darkblue" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[Dunkelblau]]></phrase>
+  <phrase title="itmChevInt_directLinks" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[Direkte Links]]></phrase>
+  <phrase title="itmChevInt_editorBar" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[In der Editorleiste]]></phrase>
+  <phrase title="itmChevInt_htmlEmbed" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[HTML einbetten]]></phrase>
+  <phrase title="itmChevInt_htmlEmbedFull" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[HTML vollständig einbetten]]></phrase>
+  <phrase title="itmChevInt_htmlEmbedMedium" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[HTML bedingt einbetten]]></phrase>
+  <phrase title="itmChevInt_htmlEmbedThumbnail" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[HTML mit Miniaturansicht einbetten]]></phrase>
+  <phrase title="itmChevInt_markdownEmbed" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[Markdown einbetten]]></phrase>
+  <phrase title="itmChevInt_markdownEmbedFull" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[Markdown vollständig einbetten]]></phrase>
+  <phrase title="itmChevInt_markdownEmbedMedium" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[Markdown bedingt einbetten]]></phrase>
+  <phrase title="itmChevInt_markdownEmbedThumbnail" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[Markdown mit Miniaturansicht einbetten]]></phrase>
+  <phrase title="itmChevInt_orange" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[Orange]]></phrase>
+  <phrase title="itmChevInt_uploadImage" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[Bild hochladen]]></phrase>
+  <phrase title="itmChevInt_viewerLinks" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[Betrachterlinks]]></phrase>
+  <phrase title="option.itmChevInt_autoInsert" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[Automatisch einfügen]]></phrase>
+  <phrase title="option.itmChevInt_button" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[Style des Button]]></phrase>
+  <phrase title="option.itmChevInt_embedCodes" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[Codes zum Einbetten]]></phrase>
+  <phrase title="option.itmChevInt_position" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[Position des Buttons]]></phrase>
+  <phrase title="option.itmChevInt_url" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[Hochladen nach]]></phrase>
+  <phrase title="option_explain.itmChevInt_autoInsert" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[Deaktiviere die automatische Einfügefunktion, damit der Benutzer wählen kann, was er tun möchte.]]></phrase>
+  <phrase title="option_explain.itmChevInt_button" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[Der Style für den Upload-Button.<br />
+<b>Hinweis:</b> Sie können den Text des Buttons ändern, indem Sie die Phrase <em>itmChevInt_uploadImage</em> ändern.<br />
+<b>Hinweis:</b> Der Style basiert auf den XenForo Standard-Buttons <em>(/style-properties/group&group=button)</em>.]]></phrase>
+  <phrase title="option_explain.itmChevInt_embedCodes" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[Die Codes zum Einbetten der hochgeladenen Bilder in den Editor.<br />
+Standard ist <i>bbcode-embed-medium</i>. Die Codes nutzen <i>full</i>, <i>medium</i> oder <i>thumbnail</i> und verlinken auf die Bildbetrachterseite.]]></phrase>
+  <phrase title="option_explain.itmChevInt_position" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[Position, relativ zum Schwesterobjekt, um den Button zu platzieren.<br />
+<b>Hinweis:</b> Die Position basiert auf dem Vorschau-Button, da sie zu allen Templates mit Editor passt.]]></phrase>
+  <phrase title="option_explain.itmChevInt_url" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[URL zu Ihrer Chevereto-Installation. <b>Ohne</b> abschließenden Schrägstrich<br />
+Zum Beispiel: <b>www.example.com</b> oder <b>www.example.com/chevereto</b>]]></phrase>
+  <phrase title="option_group.itmChevInt" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[[ITM] Chevereto Integration]]></phrase>
+  <phrase title="option_group_description.itmChevInt" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[Ein einfaches Add-on, mit dem Xenforo-Administratoren ihr Chevereto-Bildhosting integrieren können.]]></phrase>
+  <phrase title="permission.forum_uploadImageChevereto" addon_id="ITM/CheveretoIntegration" version_id="2000670" version_string="2.0.6"><![CDATA[Kann Bilder zu Chevereto hochladen]]></phrase>
+</language>
