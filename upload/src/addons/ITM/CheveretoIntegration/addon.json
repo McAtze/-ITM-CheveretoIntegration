@@ -2,8 +2,8 @@
     "legacy_addon_id": "",
     "title": "[ITM] Chevereto Integration",
     "description": "The popup upload plugin (PUP) is a small file that allows Chevereto based websites to provide external image uploading via a small JavaScript file.",
-    "version_id": 2000770,
-    "version_string": "2.0.7",
+    "version_id": 2020070,
+    "version_string": "2.2.0",
     "dev": "McAtze",
     "dev_url": "https://www.xentutorials.com",
     "faq_url": "https://chevereto.com/docs/pup",
@@ -11,12 +11,12 @@
     "extra_urls": [],
     "require": {
         "XF": [
-            2000010,
-            "XenForo 2.0.0+"
+            2020070,
+            "XenForo 2.2.0+"
         ],
         "php": [
-            "5.6.0",
-            "PHP 5.6.0+"
+            "7.3.0",
+            "PHP 7.3.0+"
         ]
     },
     "icon": "icon.png"
