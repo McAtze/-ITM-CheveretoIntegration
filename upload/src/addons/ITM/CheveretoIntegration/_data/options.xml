@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <options>
+  <option option_id="itmChevInt_attach" edit_format="onoff" data_type="boolean">
+    <default_value>1</default_value>
+    <relation group_id="itmChevInt" display_order="50"/>
+  </option>
   <option option_id="itmChevInt_autoInsert" edit_format="onoff" data_type="boolean">
     <default_value>1</default_value>
     <relation group_id="itmChevInt" display_order="40"/>

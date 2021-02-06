@@ -22,18 +22,20 @@
   <phrase title="itmChevInt_orange" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Orange]]></phrase>
   <phrase title="itmChevInt_uploadImage" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Upload image]]></phrase>
   <phrase title="itmChevInt_viewerLinks" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Viewer links]]></phrase>
+  <phrase title="option.itmChevInt_attach" version_id="2020070" version_string="2.2.0"><![CDATA[Use XenForo attachments]]></phrase>
   <phrase title="option.itmChevInt_autoInsert" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Auto insert]]></phrase>
   <phrase title="option.itmChevInt_button" version_id="2000670" version_string="2.0.6"><![CDATA[Button style]]></phrase>
   <phrase title="option.itmChevInt_embedCodes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Embed codes]]></phrase>
   <phrase title="option.itmChevInt_position" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Button position]]></phrase>
   <phrase title="option.itmChevInt_url" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Upload to]]></phrase>
+  <phrase title="option_explain.itmChevInt_attach" version_id="2020070" version_string="2.2.0"><![CDATA[If you disable the permissions for uploading attachments you should set to NO. So the Chevereto button is placed near the Save/Submit button instead of the attachment button.]]></phrase>
   <phrase title="option_explain.itmChevInt_autoInsert" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable/Disable the auto insert function to let the user choose what he want to do.]]></phrase>
   <phrase title="option_explain.itmChevInt_button" version_id="2000670" version_string="2.0.6"><![CDATA[The style for your upload button.<br />
 <b>Note:</b> You can change the button text by changing the phrase <em>itmChevInt_uploadImage</em>.<br />
 <b>Note:</b> Styling based on XenForo default buttons (/style-properties/group&group=button).]]></phrase>
   <phrase title="option_explain.itmChevInt_embedCodes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Embed codes to auto insert in the target editable content. Default <i>bbcode-embed-medium</i>. Codes using <i>full</i>, <i>medium</i> or <i>thumbnail</i> will link to the image viewer page.]]></phrase>
-  <phrase title="option_explain.itmChevInt_position" version_id="2000670" version_string="2.0.6"><![CDATA[Position, relativ to the sibling, to place the button.<br />
-<b>Note:</b> The position is based on the preview-button, because it fits to all templates with editor.]]></phrase>
+  <phrase title="option_explain.itmChevInt_position" version_id="2020070" version_string="2.2.0"><![CDATA[Position, relativ to the sibling, to place the button.<br />
+<b>Note:</b> The position is based on the next button, because it fits to all templates with editor.]]></phrase>
   <phrase title="option_explain.itmChevInt_url" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Url to your Chevereto installation. <b>Without</b> trailing slash<br />
 E.g.: <b>www.example.com</b> or <b>www.example.com/chevereto</b>]]></phrase>
   <phrase title="option_group.itmChevInt" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[ITM] Chevereto Integration]]></phrase>

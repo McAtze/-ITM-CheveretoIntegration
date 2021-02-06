@@ -1,13 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <templates>
-  <template type="public" title="helper_itmChevInt" version_id="2000770" version_string="2.0.7"><![CDATA[<xf:if is="$xf.options.itmChevInt_position != 'editor'">
-	<script async src="https://{$xf.options.itmChevInt_url}/sdk/pup.js?noCache" 
-			data-url="https://{$xf.options.itmChevInt_url}/upload" 
-			data-auto-insert="{{ $xf.options.itmChevInt_autoInsert ? $xf.options.itmChevInt_embedCodes : '0' }}" 
-			data-sibling="span.js-attachButton" 
-			data-sibling-pos="{$xf.options.itmChevInt_position}" 
-			data-html="<button %x type='button' class='{$xf.options.itmChevInt_button} button button--icon button--icon--upload button--chev--{$xf.options.itmChevInt_position} %bClass'><span class='button-text'> {{ phrase('itmChevInt_uploadImage')}}</span></button>">
-	</script>
+  <template type="public" title="helper_itmChevInt" version_id="2020070" version_string="2.2.0"><![CDATA[<xf:if is="$xf.options.itmChevInt_position != 'editor'">
+	<xf:if is="in_array({$template}, ['forum_post_thread', 'forum_view'])">
+		<script async src="https://{$xf.options.itmChevInt_url}/sdk/pup.js?noCache" 
+				data-url="https://{$xf.options.itmChevInt_url}/upload" 
+				data-vendor="xenforo" 
+				data-auto-insert="{{ $xf.options.itmChevInt_autoInsert ? $xf.options.itmChevInt_embedCodes : '0' }}" 
+				data-sibling="{{ $xf.options.itmChevInt_attach ? 'span.js-attachButton' : 'button.button--icon--write' }}" 
+				data-sibling-pos="{$xf.options.itmChevInt_position}" 
+				data-html="<button %x type='button' class='{$xf.options.itmChevInt_button} button button--icon button--icon--upload button--chev--{$xf.options.itmChevInt_position} %bClass'><span class='button-text'> {{ phrase('itmChevInt_uploadImage')}}</span></button>">
+		</script>
+	<xf:elseif is="$template == 'conversation_add'" />
+		<script async src="https://{$xf.options.itmChevInt_url}/sdk/pup.js?noCache" 
+				data-url="https://{$xf.options.itmChevInt_url}/upload" 
+				data-vendor="xenforo"  
+				data-auto-insert="{{ $xf.options.itmChevInt_autoInsert ? $xf.options.itmChevInt_embedCodes : '0' }}" 
+				data-sibling="{{ $xf.options.itmChevInt_attach ? 'span.js-attachButton' : 'button.button--icon--conversation' }}"
+				data-sibling-pos="{$xf.options.itmChevInt_position}" 
+				data-html="<button %x type='button' class='{$xf.options.itmChevInt_button} button button--icon button--icon--upload button--chev--{$xf.options.itmChevInt_position} %bClass'><span class='button-text'> {{ phrase('itmChevInt_uploadImage')}}</span></button>">
+		</script>
+	<xf:elseif is="$template == 'post_edit'" />
+		<script async src="https://{$xf.options.itmChevInt_url}/sdk/pup.js?noCache" 
+				data-url="https://{$xf.options.itmChevInt_url}/upload" 
+				data-vendor="xenforo"  
+				data-auto-insert="{{ $xf.options.itmChevInt_autoInsert ? $xf.options.itmChevInt_embedCodes : '0' }}" 
+				data-sibling="{{ $xf.options.itmChevInt_attach ? 'span.js-attachButton' : 'button.button--icon--save' }}" 
+				data-sibling-pos="{$xf.options.itmChevInt_position}" 
+				data-html="<button %x type='button' class='{$xf.options.itmChevInt_button} button button--icon button--icon--upload button--chev--{$xf.options.itmChevInt_position} %bClass'><span class='button-text'> {{ phrase('itmChevInt_uploadImage')}}</span></button>">
+		</script>
+	<xf:else />
+		<script async src="https://{$xf.options.itmChevInt_url}/sdk/pup.js?noCache" 
+				data-url="https://{$xf.options.itmChevInt_url}/upload" 
+				data-vendor="xenforo"  
+				data-auto-insert="{{ $xf.options.itmChevInt_autoInsert ? $xf.options.itmChevInt_embedCodes : '0' }}" 
+				data-sibling="{{ $xf.options.itmChevInt_attach ? 'span.js-attachButton' : 'button.button--icon--reply' }}" 
+				data-sibling-pos="{$xf.options.itmChevInt_position}" 
+				data-html="<button %x type='button' class='{$xf.options.itmChevInt_button} button button--icon button--icon--upload button--chev--{$xf.options.itmChevInt_position} %bClass'><span class='button-text'> {{ phrase('itmChevInt_uploadImage')}}</span></button>">
+		</script>
+	</xf:if>
 	<style>
 		.button--chev--before {margin-right: 5px;}
 		.button--chev--after {margin-left: 5px;}
@@ -15,6 +45,7 @@
 <xf:elseif is="$xf.options.itmChevInt_position == 'editor'" />
 	<script async src="//{$xf.options.itmChevInt_url}/sdk/pup.js?noCache" 
 			data-url="https://{$xf.options.itmChevInt_url}/upload" 
+			data-vendor="xenforo" 
 			data-auto-insert="{$xf.options.itmChevInt_embedCodes}" 
 			data-sibling="#insertImage-1" 
 			data-sibling-pos="after"
