@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <phrases>
-  <phrase title="itmChevInt_after" version_id="2000670" version_string="2.0.6" global_cache="1"><![CDATA[After the Preview-Button]]></phrase>
+  <phrase title="itmChevInt_after" version_id="2020370" version_string="2.2.3" global_cache="1"><![CDATA[After the Sibling-Button]]></phrase>
   <phrase title="itmChevInt_bbcodeEmbed" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[BB code embed]]></phrase>
   <phrase title="itmChevInt_bbcodeEmbedFull" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[BB code embed full]]></phrase>
   <phrase title="itmChevInt_bbcodeEmbedMedium" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[BB code embed medium]]></phrase>
   <phrase title="itmChevInt_bbcodeEmbedThumbnail" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[BB code embed thumbnail]]></phrase>
-  <phrase title="itmChevInt_before" version_id="2000670" version_string="2.0.6" global_cache="1"><![CDATA[Before the Preview-Button]]></phrase>
+  <phrase title="itmChevInt_before" version_id="2020370" version_string="2.2.3" global_cache="1"><![CDATA[Before the Sibling-Button]]></phrase>
   <phrase title="itmChevInt_blue" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Blue]]></phrase>
   <phrase title="itmChevInt_clear" version_id="2000670" version_string="2.0.6" global_cache="1"><![CDATA[Clear]]></phrase>
   <phrase title="itmChevInt_darkblue" version_id="2000010" version_string="2.0.0 Alpha" global_cache="1"><![CDATA[Darkblue]]></phrase>
@@ -28,7 +28,8 @@
   <phrase title="option.itmChevInt_embedCodes" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Embed codes]]></phrase>
   <phrase title="option.itmChevInt_position" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Button position]]></phrase>
   <phrase title="option.itmChevInt_url" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Upload to]]></phrase>
-  <phrase title="option_explain.itmChevInt_attach" version_id="2020070" version_string="2.2.0"><![CDATA[If you disable the permissions for uploading attachments you should set to NO. So the Chevereto button is placed near the Save/Submit button instead of the attachment button.]]></phrase>
+  <phrase title="option_explain.itmChevInt_attach" version_id="2020370" version_string="2.2.3"><![CDATA[The Chevereto PUP is looking for an sibling to set the button. If the XenForo attachment permissions are disabled it could be possible that the Chevereto button is also disabled like the attachment button.<br />
+If you know that you disabled the attachment permission for some user groups, uncheck this option to set the Chevereto button next to the save/submit button in the editor.]]></phrase>
   <phrase title="option_explain.itmChevInt_autoInsert" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable/Disable the auto insert function to let the user choose what he want to do.]]></phrase>
   <phrase title="option_explain.itmChevInt_button" version_id="2000670" version_string="2.0.6"><![CDATA[The style for your upload button.<br />
 <b>Note:</b> You can change the button text by changing the phrase <em>itmChevInt_uploadImage</em>.<br />
